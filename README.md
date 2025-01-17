@@ -1,6 +1,6 @@
 # iwantedtotryathing
 
-This template should help get you started developing with Vue 3 in Vite.
+i wanted to try a thing wahoo
 
 ## Recommended IDE Setup
 
